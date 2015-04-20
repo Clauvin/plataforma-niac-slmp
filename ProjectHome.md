@@ -1,0 +1,1 @@
+Plataforma de cadastro dos usuários do Núcleo Interdisciplinar de Ação da Cidadânia da UFRJ. Produzida como projeto da disciplina de graduação Software Livre e Metodologias Participativas.
